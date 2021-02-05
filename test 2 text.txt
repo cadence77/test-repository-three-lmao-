@@ -2,6 +2,13 @@ try	two..	Hoping	this	works
 hello. I moved the margins so it would be one column				
 fixing the publication and going from bc to personal				
 hello hahahahha ok so this is working!				
+<<<<<<< HEAD
 we r creating a conflict				
 				
 my turn to be second				
+=======
+we r creating a conflict
+
+;)				
+
+>>>>>>> 07e406d60b4920cee5ee6832d73046f1c38eb5fd
